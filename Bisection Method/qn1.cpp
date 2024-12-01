@@ -1,4 +1,4 @@
-// Find the equation of X^3 - 2.5*X^2 - 2.46*X + 3.96
+// Find the root of equation of X^3 - 2.5*X^2 - 2.46*X + 3.96
 #include<iostream>
 #include<iomanip>
 #include<cmath>
